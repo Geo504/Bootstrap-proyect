@@ -1,0 +1,19 @@
+.galery_img-container{
+  height: 20rem;
+  width: 100%;
+  padding: 2px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.post_container-portrait{
+  width: 20rem;
+  margin: auto;
+  margin-top: 5px;
+}
+.image_portrait{
+  height: 20rem;
+}
