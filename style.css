@@ -1,5 +1,12 @@
+.fa-gear{
+  transition: transform 1s;
+}
+.dropdown-toggle:focus>.fa-gear{
+  transform: rotate(120deg);
+}
+
 .galery_img-container{
-  height: 20rem;
+  aspect-ratio: 1/1;
   width: 100%;
   padding: 2px;
 }
